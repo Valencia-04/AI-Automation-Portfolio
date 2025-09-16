@@ -1,0 +1,16 @@
+import pandas as pd
+
+# Sample expense data
+data = {
+    "Employee": ["Alice", "Bob", "Charlie"],
+    "Department": ["HR", "Finance", "IT"],
+    "Amount": [120, 450, 300],
+    "Reason": ["Travel", "Software", "Equipment"]
+}
+
+df = pd.DataFrame(data)
+
+# Save to Excel
+df.to_excel("expenses.xlsx", index=False)
+
+print("✅ Sample expenses.xlsx created!")

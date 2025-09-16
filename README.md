@@ -1,2 +1,1 @@
-# AI-Automation-Portfolio
-A collection of real-world automation projects built with AWS, Python, and cloud services. Showcasing end-to-end solution in automation, serverless applications
+Hi, my name is Valencia Lukhele an Automation Engineer passionate about building real-world automation solution that save time, improve customer experience, and sale businesses. This poftfolio showcase my end-to-end cloud and automation project using AWS, Python, and serverless architecture.

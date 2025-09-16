@@ -1,0 +1,26 @@
+{
+  "business_name": "Glow Hair Studio",
+  "location": "123 Main Road, Johannesburg",
+  "services": [
+    {
+      "name": "Haircut"
+    },
+    {
+      "name": "Hair Colouring"
+    }
+  ],
+  "business_hours": {
+    "Monday": "09:00-17:00",
+    "Tuesday": "09:00-17:00",
+    "Wednesday": "09:00-17:00",
+    "Thursday": "09:00-17:00",
+    "Friday": "09:00-17:00",
+    "Saturday": "09:00-17:00",
+    "Sunday": "closed"
+  },
+  "Contact": {
+    "phone": "+27 123 456 7890",
+    "email": "info@glowhairstudio.co.za"
+  },
+  "cancellation_policy": "Please notify us 24 hours in advance to cancel appointments."
+}

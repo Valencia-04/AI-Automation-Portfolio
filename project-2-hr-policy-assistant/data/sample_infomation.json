@@ -1,0 +1,10 @@
+{
+  "general_policy": "All leave requests must be approved by the employee's manager. Submit requests via the HR portal at least 5 working days before planned leave.",
+  "annual_leave": "Employees are entitled to 21 annual (vacation) leave days per year. Accrual: 1.75 days per month. Carryover: up to 5 days to the next year with manager approval.",
+  "sick_leave": "Employees have 30 sick leave days per 3-year cycle. For absences longer than 2 consecutive days, submit a medical certificate.",
+  "maternity_leave": "Maternity leave: 16 weeks paid. Notify HR at least 8 weeks before expected delivery and provide medical documents.",
+  "paternity_leave": "Paternity leave: 10 working days paid for primary caregivers. Must be taken within 3 months of birth.",
+  "study_leave": "Study leave: Up to 10 paid study days per year upon manager and HR approval, subject to business needs.",
+  "unpaid_leave": "Unpaid leave can be granted on a case-by-case basis; requires manager and HR approval.",
+  "cancellation_policy": "If leave is cancelled less than 24 hours before the start date, it will be treated as unplanned absence unless due to emergency."
+}
