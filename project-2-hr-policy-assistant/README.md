@@ -9,7 +9,7 @@ It leverages AWS cloud services and lightweight NLP to deliver secure and scalab
 
 Architecture
 
-Architecture Diagram (assests/hr_architecture_diagram.png )
+[![Architecture Diagram](assets/hr_architecture diagram.png)](assets/hr_architecture diagram.png)
 
 [![Watch the demo](https://img.youtube.com/vi/pOrIa1mBbT8/0.jpg)](https://youtube.com/shorts/pOrIa1mBbT8?si=hZ5X98PByIdykljS)
 

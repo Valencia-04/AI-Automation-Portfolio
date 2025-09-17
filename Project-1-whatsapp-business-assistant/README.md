@@ -10,7 +10,10 @@ It uses AWS cloud services and lightweight NLP to deliver real-time, document-dr
 
 Architecture
 
-Architecture Diagram (assests/WBIA_Architecture_Diagram.png )
+[![Architecture Diagram](assets/WBIA_Architecture_Diagram.png)](assets/WBIA_Architecture_Diagram.png)
+
+
+Watch demo below
 
 [![Watch the demo](https://img.youtube.com/vi/gvqruPyJuuA/0.jpg)](https://youtube.com/shorts/gvqruPyJuuA?si=i-jtSY4d0k3Xxq_s)
 

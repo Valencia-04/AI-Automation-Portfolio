@@ -11,7 +11,7 @@ It is lightweight, user-friendly, and runs entirely in the browser using Streaml
 
 Architecture
 
-Architecture Diagram (assests/expense_approval.png )
+[![Architecture Diagram](assets/Expense Approval 2.drawio.png)](assets/Expense Approval 2.deawio.png)
 
 [![Watch the demo](https://img.youtube.com/vi/xAa9LuLIWfY/0.jpg)](https://youtube.com/shorts/xAa9LuLIWfY?si=mlOy9hTcMVYPhHgK)
 
