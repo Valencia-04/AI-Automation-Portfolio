@@ -9,7 +9,9 @@ This project demonstrates serverless architecture, cloud automation, and end-to-
 
 Architecture
 
-![Architecture Diagram](assets/Client Onboarding.drawio (2).png)
+[![Architecture Diagram](assets/Client%20Onboarding.drawio%20(2).png)](assets/Client%20Onboarding.drawio%20(2).png)
+
+Watch demo below
 
 [![Watch the demo](https://img.youtube.com/vi/BgolS0JAXdo/0.jpg)](https://youtube.com/shorts/BgolS0JAXdo?si=vHw006TvgdWj_BAM)
 
