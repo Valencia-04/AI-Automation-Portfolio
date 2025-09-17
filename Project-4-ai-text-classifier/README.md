@@ -9,7 +9,7 @@ It uses AWS cloud services and AI/NLP to deliver real-time, intelligent text cla
 
 Architecture
 
-Architecture Diagram: (assets/AI_Text_Classifier_Architecture.png)
+![Architecture Diagram](assets/AI Text Classifier.drawio.png)
 
 [![Watch the demo](https://img.youtube.com/vi/ABbzhItJrfY/0.jpg)](https://youtube.com/shorts/ABbzhItJrfY?si=mKCGJSs8d8ckod85)
 

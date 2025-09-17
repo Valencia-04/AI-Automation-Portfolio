@@ -9,7 +9,7 @@ This project demonstrates enterprise-level cloud automation, serverless architec
 
 Arcitecture
 
-[![Architecture Diagram](assets/Sales Lead Tracker.drawio.png)](assets/Sales Lead Tracker.drawio.png)
+![Architecture Diagram](assets/Sales Lead Tracker.drawio.png)
 
 [![Watch the demo](https://img.youtube.com/vi/o6q8EMdSrR0/0.jpg)](https://youtube.com/shorts/o6q8EMdSrR0?si=O7blnUNgE9VFjFyo)
 
