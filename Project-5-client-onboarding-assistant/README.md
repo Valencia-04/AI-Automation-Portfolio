@@ -87,4 +87,4 @@ Author
 
 Valencia Lukhele
 AI & Cloud Automation Engineer
-Building scalable automation + AI solutions for businesses and individuals
+Building scalable automation solutions for businesses and individuals
