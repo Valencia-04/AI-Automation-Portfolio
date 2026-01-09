@@ -1,4 +1,4 @@
-Hi, my name is Valencia Lukhele an Automation Engineer passionate about building real-world automation solution that save time, improve customer experience, and sale businesses. This poftfolio showcase my end-to-end cloud and automation project using AWS, Python, and serverless architecture.
+Hi, my name is Valencia Lukhele an Engineer passionate about building real-world automation solution that save time, improve customer experience, and sale businesses. This poftfolio showcase my end-to-end cloud and automation project using AWS, Python, and serverless architecture.
 
    Projects in my Portfolio
 
